@@ -2,7 +2,7 @@
   "load_on_startup": true,
   "files": {
     "index.js": "27ebc55d526a3a52017b8a46a6b6d23eb442e3d1e6f8946a25d5cded2fc1ff56",
-    "manifest.json": "2801e84db00929a704fbd37a7dcfebe3d1c31f8fa70969e3384123806171414f",
+    "module.json": "e2a5f8b4cec56999578f331477fe261259ac2ed3d5ae2630920f88c4ced86472",
     "names.json": "5bdd999ecd9467a86bd62e8df21b3f5e69f382c2a3770bbada2490d42473485a",
     "README.md": "ed37dd08107cebc18119393518f7ca0857c4451a1a19ec40e55042aa297d5dc5"
   },
