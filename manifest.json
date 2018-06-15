@@ -1,0 +1,10 @@
+{
+  "load_on_startup": true,
+  "files": {
+    "index.js": "43a537d401680b0fc832d238ad06c935f36b05607ecba549e303c2f65063450d",
+    "module.json": "624d475093538f1de440e6b5ff20ea801ac654554c214ecb1307b5709bb56f3c",
+    "names.json": "5bdd999ecd9467a86bd62e8df21b3f5e69f382c2a3770bbada2490d42473485a",
+    "README.md": "98cedeb6ecd6ebafbb18187755e00d8045bd6ac653064b2d244cdf898a260e3a"
+  },
+  "defs": {}
+}
